@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowRoomManagment", "ShowRoomManagment\ShowRoomManagment.csproj", "{FD03C2B7-1329-450C-81CD-439FD161A1C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowRoomManagmentAPI", "ShowRoomManagmentAPI\ShowRoomManagmentAPI.csproj", "{52483083-CC0F-4226-A6DF-C6CD205B0669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD03C2B7-1329-450C-81CD-439FD161A1C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD03C2B7-1329-450C-81CD-439FD161A1C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD03C2B7-1329-450C-81CD-439FD161A1C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD03C2B7-1329-450C-81CD-439FD161A1C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52483083-CC0F-4226-A6DF-C6CD205B0669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52483083-CC0F-4226-A6DF-C6CD205B0669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52483083-CC0F-4226-A6DF-C6CD205B0669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52483083-CC0F-4226-A6DF-C6CD205B0669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9990854F-350C-4FA4-8F94-1C9980830BEE}
+	EndGlobalSection
+EndGlobal
